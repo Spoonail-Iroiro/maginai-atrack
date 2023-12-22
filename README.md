@@ -3,7 +3,9 @@
 [maginai](https://github.com/Spoonail-Iroiro/maginai)で導入可能な異世界の創造者 非公式Modです。  
 指定したアビリティのレベルと経験値をメイン画面に表示します。
 
-※ maginaiを未導入の場合は先にそちらの導入を行ってください。
+※ maginaiを未導入の場合は先にそちらの導入を行ってください
+
+※Mod用セーブ機能を使用するためmaginai v0.4.0以上が必要です
 
 ## 導入方法
 [Release](https://github.com/Spoonail-Iroiro/maginai-atrack/releases)ページより最新バージョンの配布zip`atrack-X.Y.Z.zip`をダウンロードしてください（`X.Y.Z`はバージョン）  

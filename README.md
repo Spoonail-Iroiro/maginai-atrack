@@ -24,6 +24,7 @@ Mod導入状態で起動するとメイン画面左上にUIが表示されます
 現時点では表示枠は3枠で、それぞれ1〜3キーに対応しています。
 
 問い合わせ・要望などはこのリポジトリのissueを作成するか、こちらの連絡先のいずれかにお願いします。
+
 https://whiteblackspace.hatenablog.com/contact-coaw
 
 

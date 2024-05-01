@@ -1,4 +1,4 @@
-[English](README.md)
+[English](README_en.md)
 
 # atrack - アビリティトラッカーMod 
 ## 概要

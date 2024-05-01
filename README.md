@@ -1,3 +1,5 @@
+[English](README.md)
+
 # atrack - アビリティトラッカーMod 
 ## 概要
 [maginai](https://github.com/Spoonail-Iroiro/maginai)で導入可能な異世界の創造者 非公式Modです。  
@@ -21,5 +23,7 @@ Mod導入状態で起動するとメイン画面左上にUIが表示されます
 
 現時点では表示枠は3枠で、それぞれ1〜3キーに対応しています。
 
-[問い合わせ・要望等](https://github.com/Spoonail-Iroiro/maginai-plustalk/blob/master/USAGE.md#%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AF)
+問い合わせ・要望などはこのリポジトリのissueを作成するか、こちらの連絡先のいずれかにお願いします。
+https://whiteblackspace.hatenablog.com/contact-coaw
+
 
